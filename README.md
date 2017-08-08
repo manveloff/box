@@ -8,10 +8,10 @@
 
 ---
 
-## Ссылки <a id="link1"></a>
+## Links <a id="link1"></a>
 ```
 
-  > Project address on github
+  > Address on github
       https://github.com/warpcomplex/box
 
       
